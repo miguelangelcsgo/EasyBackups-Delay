@@ -1,0 +1,7 @@
+build/
+build-*/
+_deps/
+out/
+dist/
+.vs/
+*.user
